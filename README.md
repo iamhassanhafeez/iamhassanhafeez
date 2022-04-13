@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasancheeta, I am full stackW WordPress Developer.
+- 👋 Hi, I’m @hasancheeta, I am full stack WordPress Developer.
 - 👀 I’m interested in web development and game development. Linux and App development.
 - 🌱 I’m currently learning React JS and Next JS.
 - 💞️ I’m looking to collaborate on ...
