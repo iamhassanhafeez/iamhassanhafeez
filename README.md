@@ -22,8 +22,20 @@
 🌟 **[Schedule Appointment 1-to-1 Plugin](https://github.com/iamhassanhafeez/schedul-appointmnet-1-to-1)**  
 📌 A custom WordPress plugin for scheduling one-on-one appointments.
 
-🌟 **[React Counter App](https://github.com/iamhassanhafeez/react-counter)**  
-📌 A simple React-based product counter with shopping cart synchronization.
+🌟 **[Customised Woo PDF Invoices & Packing Slips](https://github.com/iamhassanhafeez/woocommerce-pdf-invoices-packing-slips)**  
+📌 A customised version of PDF invoices and packing slips plugin. It shows how to customise invoices and packing slips layout.
+
+🌟 **[PHP App, Knack and Xero Integration](https://github.com/iamhassanhafeez/knack_xero_integ02)**  
+📌 A custom php app carry out integration between knack and Xero.
+
+🌟 **[Bugzilla - Software bugs management system](https://github.com/iamhassanhafeez/bugzilla)**  
+📌 A management system built with ROR to streamline the process of software bugs removal.
+
+🌟 **[Custom Woo plugins](https://github.com/iamhassanhafeez/woo-snippets)**  
+📌 A custom WordPress Woocommerce plugins showcasing how I achieved custom functionalities while working on a large scale ecommerce project. These plugins incorporate third party products vendors apis and create products in woocommerce with many attributes and variations.
+
+🌟 **[Fluffy Spoon YT Widget](https://github.com/iamhassanhafeez/fluffy-spoon-yt-in-sidebar)**  
+📌 A simple plugin that creates a widget to facilitate user to display social media handle details in sidebar or footer.
 
 ---
 
@@ -33,5 +45,5 @@
 ---
 
 ## 🤝 Connect with Me
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📧 hassanhafeez@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/iamhassanhafeez/)  
+📧 iamhassanhafeez@gmail.com  
