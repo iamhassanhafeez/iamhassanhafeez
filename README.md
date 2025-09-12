@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hassan Hafeez
 
-🚀 **Senior Full Stack WordPress Developer | Technical Support Engineer | React & Next.js Developer**  
+🚀 **Senior Full Stack WordPress & Shopify Developer | Technical Support Engineer | React & Next.js Developer**  
 💻 Passionate about **WordPress, PHP, React.js, Next.js, Laravel, Ruby on Rails, and DevOps**  
 🎯 Exploring **Solution Architecture and DevSecOps**  
 
