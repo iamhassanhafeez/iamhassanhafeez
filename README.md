@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Hassan Hafeez
 
 🚀 **Senior Full Stack WordPress & Shopify Developer | Technical Support Engineer | React & Next.js Developer**  
-💻 Passionate about **WordPress, PHP, React.js, Next.js, Laravel, Ruby on Rails, and DevOps**  
+💻 Passionate about **Shopify, WordPress, PHP, React.js, Next.js, Laravel, Ruby on Rails, and DevOps**  
 🎯 Exploring **Solution Architecture and DevSecOps**  
 
 ---
 
 ## 🛠️ Technologies & Tools
+![Shopify](https://img.shields.io/badge/-Shopify-b0d00a?logo=shopify&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
